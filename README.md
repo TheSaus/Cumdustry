@@ -1,2 +1,1 @@
-# Cumdustry
-moved, go to TheSaus/DubiousWhiteLiquidustry
+Cumdustry has been moved, go to TheSaus/DubiousWhiteLiquidustry
